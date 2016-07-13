@@ -1,0 +1,6 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\FileFinder\bin\Debug\FileFinder.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\FileFinder\bin\Debug\FileFinder.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\FileFinder\bin\Debug\FileFinder.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\FileFinder\obj\Debug\FileFinder.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\FileFinder\obj\Debug\FileFinder.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\FileFinder\obj\Debug\FileFinder.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\Personnel\bin\Debug\Personnel.exe.config
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\Personnel\bin\Debug\Personnel.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\Personnel\bin\Debug\Personnel.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\Personnel\obj\Debug\Personnel.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\Personnel\obj\Debug\Personnel.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\Personnel\obj\Debug\Personnel.pdb
