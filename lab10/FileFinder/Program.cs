@@ -29,7 +29,11 @@ namespace FileFinder
                     _files.Add("Name: "+fileInfo.Name+" Length: "+ fileInfo.Length);
                     return;
                 }
-            }
+            }/**
+                You should handle all IOExceptions
+                * Consider this:
+                * https://msdn.microsoft.com/en-us/library/ms164917.aspx
+                */
             catch (System.IO.FileNotFoundException e)
             {
                 Console.WriteLine(e.Message);
