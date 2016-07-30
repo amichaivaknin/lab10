@@ -4,3 +4,9 @@ C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\Personnel\bin
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\Personnel\obj\Debug\Personnel.csprojResolveAssemblyReference.cache
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\Personnel\obj\Debug\Personnel.exe
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab10\Personnel\obj\Debug\Personnel.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab10\lab10\Personnel\bin\Debug\Personnel.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab10\lab10\Personnel\obj\Debug\Personnel.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab10\lab10\Personnel\obj\Debug\Personnel.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab10\lab10\Personnel\bin\Debug\Personnel.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab10\lab10\Personnel\bin\Debug\Personnel.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab10\lab10\Personnel\obj\Debug\Personnel.csprojResolveAssemblyReference.cache
